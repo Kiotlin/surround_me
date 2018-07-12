@@ -1,4 +1,5 @@
 # Surround_me
+
 Author Kiokh(ilvanime121000@gmail.com)
 Module for output text surrounded by a border
 
@@ -6,10 +7,11 @@ Python:
   - 3.7
 
 Usage:
-  -$python3 output_with_fragment.py "..." "..."
+  - $python3 output_with_fragment.py "..." "..."
 
 Here is a output example:
 
+```
 1 sentence
 ?------------------------------------------?
 |                                          |
@@ -25,3 +27,4 @@ several sentences
 |   apt-get upgrade                        |
 |                                          |
 ?------------------------------------------?
+```

@@ -5,7 +5,7 @@ Author Kiokh(ilvanime121000@gmail.com)
 Module for output text surrounded by a border
 
 Python:
-  - 3.7
+  - 3.x
 
 Usage:
   - $python3 output_with_fragment.py "..." "..."
